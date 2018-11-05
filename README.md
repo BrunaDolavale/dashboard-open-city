@@ -1,21 +1,11 @@
-# Vuetify Webpack SSR Template
+# Open City Dashboard
 
-> Vuetify SSR Webpack Template
+> Dash do projeto Open City
 
 ## Build Setup
-
-``` bash
-vue init vuetifyjs/webpack-ssr
-
-cd webpack-ssr
 
 # npm
 npm install
 
-# yarn
-yarn
-```
-
-For additional information, please visit the [Official Documentation](https://vuetifyjs.com).
-# hack
-# hack
+# run
+npm run dev
